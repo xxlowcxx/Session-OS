@@ -1,10 +1,17 @@
 # Session OS
 
-Intention papers for the session OS.
+The owner gets the experience of another operating system on a phone they are already in. The phone keeps its own boot. The session is the product.
 
-The owner gets the experience of another operating system on their phone. The phone keeps its own boot. The session is the product.
+| | |
+| --- | --- |
+| What it is | Intention papers. |
+| What it is not | A flashed phone. A custom boot. XR-Sandbox, which is the home-screen sandbox for one XR. |
+| Status | Papers only. The product is not built. |
+| Owner | LowC. Toolaid. |
 
-Owner: LowC. Toolaid.
+## Mission
+
+The papers stay the source. Code comes later, and it does not replace the phone's own boot.
 
 ## Papers
 
